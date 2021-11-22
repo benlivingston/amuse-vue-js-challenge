@@ -10,6 +10,7 @@ const routes = [
   },
   {
     path: "/brands/:brand/:product_slug",
+    alias: "/brand/:brand/:product_slug",
     name: "Product",
     component: Product,
   }

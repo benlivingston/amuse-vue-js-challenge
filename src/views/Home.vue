@@ -7,7 +7,7 @@
   </div>
   <div class="wrapper">
     <div v-for="product in $store.state.products" :key="product.entity_id" class="product">
-      <p>{{ product.name }}</p>
+      <p><router-link :to="product.url">{{ product.name }}</router-link></p>
       <p>{{ product.url }}</p>
       <p>Cat: {{ product.category }}</p>
       <p>SubCat: {{ product.sub_category }}</p>
