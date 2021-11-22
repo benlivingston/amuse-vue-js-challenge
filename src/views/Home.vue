@@ -1,6 +1,12 @@
 <template>
+  <div>
+<!--
+    <img src="@/assets/logo.png" />
+    <img :src="require('@/assets/logo.png')" />
+-->
+  </div>
   <div class="wrapper">
-    <div v-for="product in products" :key="product.entity_id" class="product">
+    <div v-for="product in $store.state.products" :key="product.entity_id" class="product">
       <p>{{ product.name }}</p>
       <p>{{ product.url }}</p>
       <p>Cat: {{ product.category }}</p>
@@ -11,23 +17,6 @@
     </div>
   </div>
 </template>
-
-<script>
-import { ref } from 'vue'
-import allProducts from '@/data/products.js'
-
-export default {
-  setup() {
-    const allProducts = ref(allProducts)
-    return { allProducts }
-  },
-  computed: {
-    products() {
-      return allProducts.filter(p => p.quantity > 0 ? true : false)
-    }
-  }
-}
-</script>
 
 <style>
 #app {
