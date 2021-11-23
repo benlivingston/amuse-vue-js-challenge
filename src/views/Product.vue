@@ -20,7 +20,7 @@ export default {
   computed: {
     product() {
       // match product url to route
-      return this.$store.state.allProducts.filter(p => p.url === this.$route.fullPath)[0]
+      return this.$store.state.products.filter(p => p.url === this.$route.fullPath)[0]
     }
   }
 }

@@ -33,9 +33,9 @@ export default {
       if (this.criteria === 'price') {
         return ['$25ish', '$50ish', '$100ish', '$200ish', '$300ish', '$400ish', '$500ish']
       }
-      // unique values from available products
+      // unique values from products
       else if (this.useAllProducts) {
-        return [...new Set(this.$store.state.availableProducts.map(p => p[this.criteria].toUpperCase()))];
+        return [...new Set(this.$store.state.products.map(p => p[this.criteria].toUpperCase()))];
       }
       // unique values from presently filtered products
       else {

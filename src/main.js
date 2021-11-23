@@ -2,20 +2,25 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
 import { createStore } from 'vuex'
-import allProducts from './data/products'
+import products from './data/products'
+products.forEach(p => p.show = false)
 
 const store = createStore({
   state: {
-    allProducts: allProducts,
-    products: allProducts.filter(p => p.quantity > 0 ? true : false),
-    availableProducts: allProducts.filter(p => p.quantity > 0 ? true : false),
+    products: products,
   },
   mutations: {
     filterProducts(state, payload) {
+      // filter on object key and value
       if (payload.key && payload.val) {
+        state.products.forEach(
+          product => product.show = (product[payload.key].toUpperCase() === payload.val) ? true : false
+        )
+/*
         state.products = state.availableProducts.filter(
           product => (product[payload.key].toUpperCase() === payload.val) ? true : false
         )
+*/
       }
     }
   }

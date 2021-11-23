@@ -12,7 +12,8 @@
 -->
   </div>
   <div class="wrapper">
-    <div v-for="product in $store.state.products" :key="product.entity_id">
+    <div v-for="product in filteredProducts" :key="product.entity_id" class="product-wrapper">
+    <!-- div v-for="product in $store.state.products" :key="product.entity_id" class="product-wrapper" -->
       <router-link :to="product.url">
         <div class="product">
           <p v-if="product.image_url"><img :src="IMAGE_PREFIX + product.image_url" class="product-image"></p>
@@ -37,11 +38,19 @@ import ProductFilter from '@/components/ProductFilter.vue'
 export default {
   components:  {
     ProductFilter
+  },
+  computed: {
+    filteredProducts() {
+      return this.$store.state.products.filter(p => p.show)
+    }
   }
 }
 </script>
 
 <style>
+.product-wrapper {
+  
+}
 .product {
   border: 2px solid;
   border-radius: .5rem;
