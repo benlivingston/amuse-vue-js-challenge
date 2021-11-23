@@ -4,6 +4,10 @@
     <img src="@/assets/logo.png" />
     <img :src="require('@/assets/logo.png')" />
 -->
+    <ProductFilter criteria="category" :useAllProducts=true />
+    <ProductFilter criteria="sub_category" />
+    <ProductFilter criteria="manufacturer" />
+    <ProductFilter criteria="price" />
   </div>
   <div class="wrapper">
     <div v-for="product in $store.state.products" :key="product.entity_id" class="product">
@@ -17,6 +21,18 @@
     </div>
   </div>
 </template>
+
+
+<script>
+import ProductFilter from '@/components/ProductFilter.vue'
+
+export default {
+  components:  {
+    ProductFilter
+  }
+}
+
+</script>
 
 <style>
 #app {
