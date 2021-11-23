@@ -252,20 +252,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 1232,
-   "sku": "AC500004",
-   "is_cannabis": 0,
-   "manufacturer": "Houseplant",
-   "name": "BIC Lighters - V1 Pink/Green",
-   "url": "/brands/houseplant/bic-lighter",
-   "category": "Merch",
-   "sub_category": "Other",
-   "image_url": "",
-   "price": 1,
-   "thc_percentage": null,
-   "quantity": 4162
- },
- {
    "entity_id": 930,
    "sku": "ED000854",
    "is_cannabis": 1,
@@ -896,20 +882,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 628,
-   "sku": "CN000587",
-   "is_cannabis": 1,
-   "manufacturer": "Flavor",
-   "name": "Strawnana Crumble",
-   "url": "/brands/flavor/strawnana-crumble/",
-   "category": "Extract",
-   "sub_category": "Other",
-   "image_url": "",
-   "price": 12.75,
-   "thc_percentage": 75.1,
-   "quantity": 0
- },
- {
    "entity_id": 388,
    "sku": "PR000359",
    "is_cannabis": 1,
@@ -938,20 +910,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 294,
-   "sku": "PR000271",
-   "is_cannabis": 1,
-   "manufacturer": "Albert Einstones",
-   "name": "Purple Punch El Bluntito",
-   "url": "/brands/albert-einstones/purple-punch-el-bluntito/",
-   "category": "Flower",
-   "sub_category": "Preroll",
-   "image_url": "",
-   "price": 16,
-   "thc_percentage": 22.32,
-   "quantity": 0
- },
- {
    "entity_id": 328,
    "sku": "FL000305",
    "is_cannabis": 1,
@@ -977,20 +935,6 @@ export default [
    "image_url": "product-images/FL000205/AlienLabs-PlanetDosi-14Grams_PackageandProduct",
    "price": 60,
    "thc_percentage": 24.16,
-   "quantity": 0
- },
- {
-   "entity_id": 540,
-   "sku": "FL000501",
-   "is_cannabis": 1,
-   "manufacturer": "Claybourne",
-   "name": "Skywalker OG 28G",
-   "url": "/brands/claybourne/skywalker-og-28g/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 215,
-   "thc_percentage": 24.47,
    "quantity": 0
  },
  {
@@ -1033,20 +977,6 @@ export default [
    "image_url": "product-images/VP000512/Select_EliteLive_510_1G_JackTheRipper_PandP",
    "price": 49.5,
    "thc_percentage": 76.2,
-   "quantity": 0
- },
- {
-   "entity_id": 704,
-   "sku": "VP000653",
-   "is_cannabis": 1,
-   "manufacturer": "STIIIZY",
-   "name": "Mango CBD",
-   "url": "/brands/STIIIZY/mango-cbd/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 25,
-   "thc_percentage": 41.7,
    "quantity": 0
  },
  {
@@ -1316,20 +1246,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 747,
-   "sku": "FL000689",
-   "is_cannabis": 1,
-   "manufacturer": "Old Pal",
-   "name": "3.5g Hybrid (NEW)",
-   "url": "",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 16.75,
-   "thc_percentage": null,
-   "quantity": 0
- },
- {
    "entity_id": 200,
    "sku": "AC000201",
    "is_cannabis": 0,
@@ -1484,20 +1400,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 825,
-   "sku": "FL000767",
-   "is_cannabis": 1,
-   "manufacturer": "Claybourne",
-   "name": "Power Pack Chem Dawg ",
-   "url": "/brands/claybourne/power-pack-chem-dawg/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 38.5,
-   "thc_percentage": 25,
-   "quantity": 0
- },
- {
    "entity_id": 531,
    "sku": "VP000492",
    "is_cannabis": 1,
@@ -1582,20 +1484,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 462,
-   "sku": "FL000422",
-   "is_cannabis": 1,
-   "manufacturer": "Old Pal",
-   "name": "Black Jack Sativa",
-   "url": "/brands/old-pal/old-pal-3-5-sativa-black-jack/",
-   "category": "Flower",
-   "sub_category": "Pre-Pack",
-   "image_url": "",
-   "price": 16.75,
-   "thc_percentage": 16.6,
-   "quantity": 0
- },
- {
    "entity_id": 559,
    "sku": "FL000518",
    "is_cannabis": 1,
@@ -1652,20 +1540,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 700,
-   "sku": "PR000652",
-   "is_cannabis": 1,
-   "manufacturer": "Source Cannabis",
-   "name": "King Louis OG",
-   "url": "/brands/source-cannabis/king-louis-og/",
-   "category": "Flower",
-   "sub_category": "Preroll",
-   "image_url": "",
-   "price": 16,
-   "thc_percentage": 26.6,
-   "quantity": 0
- },
- {
    "entity_id": 47,
    "sku": "CN000150",
    "is_cannabis": 1,
@@ -1677,20 +1551,6 @@ export default [
    "image_url": "product-images/CN000150/Roots-PurpleUnicornBadder-CN000150_ProductDetail",
    "price": 22,
    "thc_percentage": 72.5,
-   "quantity": 0
- },
- {
-   "entity_id": 591,
-   "sku": "VP000548",
-   "is_cannabis": 1,
-   "manufacturer": "Heavy Hitters",
-   "name": "Northern Lights",
-   "url": "/brands/heavy-hitters/northern-lights/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 59,
-   "thc_percentage": 89.17,
    "quantity": 0
  },
  {
@@ -1719,20 +1579,6 @@ export default [
    "image_url": "product-images/TP000280/Papa_Barkley_ReleafBodyOil_60ml_1to3THCrich_PackageandProduct",
    "price": 39.5,
    "thc_percentage": 0.49,
-   "quantity": 0
- },
- {
-   "entity_id": 738,
-   "sku": "PR000672",
-   "is_cannabis": 1,
-   "manufacturer": "FLOW KANA",
-   "name": "Platinum OG 6 pack",
-   "url": "/brands/flow-kana/platinum-og-6-pack/",
-   "category": "Flower",
-   "sub_category": "Preroll",
-   "image_url": "",
-   "price": 31.5,
-   "thc_percentage": 23.8,
    "quantity": 0
  },
  {
@@ -1803,20 +1649,6 @@ export default [
    "image_url": "product-images/VP000654/RawGarden_1G_510_MendoClouds_PandP",
    "price": 48.5,
    "thc_percentage": 89.7,
-   "quantity": 0
- },
- {
-   "entity_id": 836,
-   "sku": "FL000768",
-   "is_cannabis": 1,
-   "manufacturer": "Claybourne",
-   "name": "Power Pack Triple OG",
-   "url": "/brands/claybourne/power-pack-triple-og/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 38.5,
-   "thc_percentage": 23.7,
    "quantity": 0
  },
  {
@@ -1915,20 +1747,6 @@ export default [
    "image_url": "product-images/FL000801/Claybourne_TripleOG_1OZ_PandP",
    "price": 215,
    "thc_percentage": 23.7,
-   "quantity": 0
- },
- {
-   "entity_id": 768,
-   "sku": "FL000700",
-   "is_cannabis": 1,
-   "manufacturer": "Wonderbrett",
-   "name": "OZ Kush",
-   "url": "/brands/wonderbrett/oz-kush-3-5g/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 55,
-   "thc_percentage": 24.9,
    "quantity": 0
  },
  {
@@ -2282,20 +2100,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 626,
-   "sku": "CN000585",
-   "is_cannabis": 1,
-   "manufacturer": "Flavor",
-   "name": "Cypress OG Crumble",
-   "url": "/brands/flavor/cypress-og-crumble/",
-   "category": "Extract",
-   "sub_category": "Other",
-   "image_url": "",
-   "price": 12.75,
-   "thc_percentage": 69.5,
-   "quantity": 0
- },
- {
    "entity_id": 196,
    "sku": "VP000197",
    "is_cannabis": 1,
@@ -2307,20 +2111,6 @@ export default [
    "image_url": "product-images/VP000197/RawGarden_LiveResin_PAX500MG_GaviotaMist_PackageandProduct",
    "price": 35,
    "thc_percentage": 83.4,
-   "quantity": 0
- },
- {
-   "entity_id": 545,
-   "sku": "VP000504",
-   "is_cannabis": 1,
-   "manufacturer": "STIIIZY",
-   "name": "Purple Animal Cookies 0.5G",
-   "url": "/brands/stiiizy/purple-animal-cookies-liquid-live-resin-pods/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 40,
-   "thc_percentage": 74.05,
    "quantity": 0
  },
  {
@@ -2338,20 +2128,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 541,
-   "sku": "ED000498",
-   "is_cannabis": 1,
-   "manufacturer": "Emerald Sky",
-   "name": "Halloween Peanut Butter Cups",
-   "url": "/brands/emerald-sky/halloween-peanut-butter-cups/",
-   "category": "Edible",
-   "sub_category": "Chocolate",
-   "image_url": "",
-   "price": 8,
-   "thc_percentage": 0.088,
-   "quantity": 0
- },
- {
    "entity_id": 716,
    "sku": "CN000664",
    "is_cannabis": 1,
@@ -2366,20 +2142,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 793,
-   "sku": "ED000725",
-   "is_cannabis": 1,
-   "manufacturer": "KIVA",
-   "name": "Milk Chocolate Bar",
-   "url": "/brands/kiva/milk-chocolate-bar/",
-   "category": "Edible",
-   "sub_category": "Chocolate",
-   "image_url": "",
-   "price": 19.75,
-   "thc_percentage": null,
-   "quantity": 0
- },
- {
    "entity_id": 551,
    "sku": "VP000510",
    "is_cannabis": 1,
@@ -2391,34 +2153,6 @@ export default [
    "image_url": "product-images/VP000510/RawGarden_510Vape_1G_LemonMerengue_PandP",
    "price": 48.5,
    "thc_percentage": 82,
-   "quantity": 0
- },
- {
-   "entity_id": 590,
-   "sku": "VP000547",
-   "is_cannabis": 1,
-   "manufacturer": "Heavy Hitters",
-   "name": "Strawberry Cough 1G",
-   "url": "/brands/heavy-hitters/strawberry-cough-1g/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 59,
-   "thc_percentage": 85.56,
-   "quantity": 0
- },
- {
-   "entity_id": 373,
-   "sku": "FL000346",
-   "is_cannabis": 1,
-   "manufacturer": "Claybourne",
-   "name": "Power Pack True OG",
-   "url": "/brands/claybourne/power-pack-true-og/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 36.5,
-   "thc_percentage": 26.16,
    "quantity": 0
  },
  {
@@ -2447,34 +2181,6 @@ export default [
    "image_url": "product-images/VP000149/RawGarden_LiveResin_5101G_SweetBerrySunrise_PackageandProduct",
    "price": 38.4,
    "thc_percentage": 78.9,
-   "quantity": 0
- },
- {
-   "entity_id": 498,
-   "sku": "FL000464",
-   "is_cannabis": 1,
-   "manufacturer": "Claybourne",
-   "name": "Power Pack Wifi",
-   "url": "/brands/claybourne/power-pack-wifi-4-5g-hybrid/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 36.5,
-   "thc_percentage": 22.34,
-   "quantity": 0
- },
- {
-   "entity_id": 509,
-   "sku": "FL000472",
-   "is_cannabis": 1,
-   "manufacturer": "FLOW KANA",
-   "name": "Larry OG",
-   "url": "/brands/flow-kana/larry-og/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 59.75,
-   "thc_percentage": 26.09,
    "quantity": 0
  },
  {
@@ -2517,20 +2223,6 @@ export default [
    "image_url": "product-images/PR000294/exoticgenetix-StrawberriesNCream-PR_PackageandProduct",
    "price": 14,
    "thc_percentage": 19.17,
-   "quantity": 0
- },
- {
-   "entity_id": 296,
-   "sku": "PR000273",
-   "is_cannabis": 1,
-   "manufacturer": "Albert Einstones",
-   "name": "OG Kush El Jointo",
-   "url": "/brands/albert-einstones/og-kush-el-jointo/",
-   "category": "Flower",
-   "sub_category": "Preroll",
-   "image_url": "",
-   "price": 10,
-   "thc_percentage": 23.04,
    "quantity": 0
  },
  {
@@ -2601,20 +2293,6 @@ export default [
    "image_url": "product-images/FL000345/Claybourne_DurbanPoison_1OZ_smallbuds_PackageandProduct",
    "price": 172,
    "thc_percentage": 28.1,
-   "quantity": 0
- },
- {
-   "entity_id": 569,
-   "sku": "FL000531",
-   "is_cannabis": 1,
-   "manufacturer": "Old Pal",
-   "name": "Headband",
-   "url": "/brands/old-pal/headband/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 16.75,
-   "thc_percentage": 13.9,
    "quantity": 0
  },
  {
@@ -2826,20 +2504,6 @@ export default [
    "price": 24.7,
    "thc_percentage": 16.4,
    "quantity": 2
- },
- {
-   "entity_id": 855,
-   "sku": "FL000785",
-   "is_cannabis": 1,
-   "manufacturer": "Roots",
-   "name": "501st OG ",
-   "url": "/brands/roots/501st-og-3-5g/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 18,
-   "thc_percentage": 23.6,
-   "quantity": 4
  },
  {
    "entity_id": 452,
@@ -3206,20 +2870,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 955,
-   "sku": "FL000870",
-   "is_cannabis": 1,
-   "manufacturer": "Old Pal",
-   "name": "Grape Stomper ",
-   "url": "",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "product-images/FL000870/OldPal_28G_FL_Indica_GrapeStomper_PandP",
-   "price": 126,
-   "thc_percentage": null,
-   "quantity": 0
- },
- {
    "entity_id": 427,
    "sku": "CN000398",
    "is_cannabis": 1,
@@ -3570,20 +3220,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 750,
-   "sku": "FL000692",
-   "is_cannabis": 1,
-   "manufacturer": "Old Pal",
-   "name": "Thicc ",
-   "url": "/brands/old-pal/thicc/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 34.75,
-   "thc_percentage": 25.9,
-   "quantity": 0
- },
- {
    "entity_id": 602,
    "sku": "PR000559",
    "is_cannabis": 1,
@@ -3766,20 +3402,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 571,
-   "sku": "PR000532",
-   "is_cannabis": 1,
-   "manufacturer": "Bakers",
-   "name": "Cherry Chem",
-   "url": "/brands/bakers/cherry-chem/",
-   "category": "Flower",
-   "sub_category": "Preroll",
-   "image_url": "",
-   "price": 6,
-   "thc_percentage": 12.37,
-   "quantity": 0
- },
- {
    "entity_id": 115,
    "sku": "VP000054",
    "is_cannabis": 1,
@@ -3878,20 +3500,6 @@ export default [
    "quantity": 4
  },
  {
-   "entity_id": 396,
-   "sku": "PR000367",
-   "is_cannabis": 1,
-   "manufacturer": "Bakers",
-   "name": "Grapes of Wrath ",
-   "url": "/brands/bakers/grapes-of-wrath/",
-   "category": "Flower",
-   "sub_category": "Preroll",
-   "image_url": "",
-   "price": 6,
-   "thc_percentage": 19.8,
-   "quantity": 2
- },
- {
    "entity_id": 439,
    "sku": "VP000409",
    "is_cannabis": 1,
@@ -3917,20 +3525,6 @@ export default [
    "image_url": "product-images/PR000610/AlbertEinstones_ElBlunto_ZkittlesMint_PR_PandP",
    "price": 29.5,
    "thc_percentage": 22.9,
-   "quantity": 4
- },
- {
-   "entity_id": 59,
-   "sku": "FL000073",
-   "is_cannabis": 1,
-   "manufacturer": "ISLAND",
-   "name": "Donut Shack",
-   "url": "/brands/island/donut-shack/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "product-images/FL000073/ISLAND-DonutShack-FL000073-1",
-   "price": 36,
-   "thc_percentage": 23.4,
    "quantity": 4
  },
  {
@@ -4004,20 +3598,6 @@ export default [
    "quantity": 4
  },
  {
-   "entity_id": 379,
-   "sku": "CN000351",
-   "is_cannabis": 1,
-   "manufacturer": "Alien Labs",
-   "name": " Planet Dosi Live Resin",
-   "url": "/brands/alien-labs/planet-dosi-live-resin/",
-   "category": "Extract",
-   "sub_category": "Other",
-   "image_url": "",
-   "price": 50,
-   "thc_percentage": 71.73,
-   "quantity": 2
- },
- {
    "entity_id": 49,
    "sku": "CN000152",
    "is_cannabis": 1,
@@ -4030,20 +3610,6 @@ export default [
    "price": 31.5,
    "thc_percentage": 75.9,
    "quantity": 2
- },
- {
-   "entity_id": 744,
-   "sku": "ED000686",
-   "is_cannabis": 1,
-   "manufacturer": "KIVA",
-   "name": "Lost Farm Citrus Spritz Gummies",
-   "url": "/brands/kiva/lost-farm-citrus-spritz-gummies/",
-   "category": "Edible",
-   "sub_category": "Gummy",
-   "image_url": "",
-   "price": 19.75,
-   "thc_percentage": null,
-   "quantity": 4
  },
  {
    "entity_id": 221,
@@ -4130,20 +3696,6 @@ export default [
    "quantity": 10
  },
  {
-   "entity_id": 627,
-   "sku": "CN000586",
-   "is_cannabis": 1,
-   "manufacturer": "Flavor",
-   "name": "Sundae Driver Crumble ",
-   "url": "/brands/flavor/sundae-driver-crumble/",
-   "category": "Extract",
-   "sub_category": "Other",
-   "image_url": "",
-   "price": 12.75,
-   "thc_percentage": 82.3,
-   "quantity": 2
- },
- {
    "entity_id": 717,
    "sku": "CN000665",
    "is_cannabis": 1,
@@ -4156,20 +3708,6 @@ export default [
    "price": 12.75,
    "thc_percentage": 67.6,
    "quantity": 2
- },
- {
-   "entity_id": 839,
-   "sku": "ED000770",
-   "is_cannabis": 1,
-   "manufacturer": "KIVA",
-   "name": "Camino Holiday Punch",
-   "url": "/brands/kiva/camino-holiday-punch-gummies/",
-   "category": "Edible",
-   "sub_category": "Gummy",
-   "image_url": "",
-   "price": 18,
-   "thc_percentage": null,
-   "quantity": 4
  },
  {
    "entity_id": 625,
@@ -4284,20 +3822,6 @@ export default [
    "quantity": 4
  },
  {
-   "entity_id": 458,
-   "sku": "FL000430",
-   "is_cannabis": 1,
-   "manufacturer": "Old Pal",
-   "name": "Pinot Noir",
-   "url": "/brands/old-pal/pinot-noir/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 16.75,
-   "thc_percentage": 15.06,
-   "quantity": 4
- },
- {
    "entity_id": 655,
    "sku": "PR000618",
    "is_cannabis": 1,
@@ -4326,20 +3850,6 @@ export default [
    "quantity": 4
  },
  {
-   "entity_id": 664,
-   "sku": "PR000611",
-   "is_cannabis": 1,
-   "manufacturer": "Albert Einstones",
-   "name": "El Bluntito Lava Cake",
-   "url": "/brands/albert-einstones/el-bluntito-lava-cake/",
-   "category": "Flower",
-   "sub_category": "Preroll",
-   "image_url": "",
-   "price": 15.75,
-   "thc_percentage": 25.7,
-   "quantity": 4
- },
- {
    "entity_id": 665,
    "sku": "PR000609",
    "is_cannabis": 1,
@@ -4352,20 +3862,6 @@ export default [
    "price": 29.5,
    "thc_percentage": 19.6,
    "quantity": 4
- },
- {
-   "entity_id": 801,
-   "sku": "FL000729",
-   "is_cannabis": 1,
-   "manufacturer": "Ember Valley",
-   "name": "Kush Cake ",
-   "url": "/brands/ember-valley/kush-cake/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 50,
-   "thc_percentage": 28.5,
-   "quantity": 2
  },
  {
    "entity_id": 130,
@@ -4394,20 +3890,6 @@ export default [
    "price": 13.75,
    "thc_percentage": 23.9,
    "quantity": 2
- },
- {
-   "entity_id": 737,
-   "sku": "PR000671",
-   "is_cannabis": 1,
-   "manufacturer": "FLOW KANA",
-   "name": "Great Success",
-   "url": "/brands/flow-kana/great-success/",
-   "category": "Flower",
-   "sub_category": "Preroll",
-   "image_url": "",
-   "price": 10.5,
-   "thc_percentage": 19.2,
-   "quantity": 4
  },
  {
    "entity_id": 878,
@@ -4550,20 +4032,6 @@ export default [
    "quantity": 8
  },
  {
-   "entity_id": 916,
-   "sku": "ED000839",
-   "is_cannabis": 1,
-   "manufacturer": "Kin Slips",
-   "name": "Float On single - Limit 1 per order",
-   "url": "/brands/kin-slips/float-on-single/",
-   "category": "Edible",
-   "sub_category": "Sublingual",
-   "image_url": "product-images/ED000839/KinSlips_Sublingual_Balance_Tranquility_Single_PandP",
-   "price": 0.01,
-   "thc_percentage": 11.4,
-   "quantity": 4
- },
- {
    "entity_id": 576,
    "sku": "FL000533",
    "is_cannabis": 1,
@@ -4688,20 +4156,6 @@ export default [
    "price": 51.2,
    "thc_percentage": 0.2,
    "quantity": 76
- },
- {
-   "entity_id": 970,
-   "sku": "VP000876",
-   "is_cannabis": 1,
-   "manufacturer": "Caldera",
-   "name": "Super Lemon OG Live Resin Pax Pod",
-   "url": "/brands/caldera/super-lemon-og/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 43.5,
-   "thc_percentage": 69.7,
-   "quantity": 112
  },
  {
    "entity_id": 609,
@@ -5348,20 +4802,6 @@ export default [
    "quantity": 68
  },
  {
-   "entity_id": 972,
-   "sku": "VP000878",
-   "is_cannabis": 1,
-   "manufacturer": "Caldera",
-   "name": "Durban Cookies Live Resin Pax Pod",
-   "url": "/brands/caldera/durban-cookies/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 43.5,
-   "thc_percentage": 68.5,
-   "quantity": 112
- },
- {
    "entity_id": 782,
    "sku": "VP000714",
    "is_cannabis": 1,
@@ -5432,20 +4872,6 @@ export default [
    "quantity": 8
  },
  {
-   "entity_id": 732,
-   "sku": "PR000653",
-   "is_cannabis": 1,
-   "manufacturer": "Glass House Farms",
-   "name": "Mimosa Pre Roll Pack",
-   "url": "/brands/glass-house-farms/mimosa-2-5g/",
-   "category": "Flower",
-   "sub_category": "Preroll",
-   "image_url": "",
-   "price": 24.75,
-   "thc_percentage": 22.7,
-   "quantity": 8
- },
- {
    "entity_id": 162,
    "sku": "PR000075",
    "is_cannabis": 1,
@@ -5513,20 +4939,6 @@ export default [
    "image_url": "product-images/VP000558/Surplus_1G_510Vape_BlackberryKush_PandP",
    "price": 33,
    "thc_percentage": 71,
-   "quantity": 4
- },
- {
-   "entity_id": 917,
-   "sku": "ED000840",
-   "is_cannabis": 1,
-   "manufacturer": "Kin Slips",
-   "name": "Shut Eye single - Limit 1 per order",
-   "url": "/brands/kin-slips/shut-eye-single/",
-   "category": "Edible",
-   "sub_category": "Sublingual",
-   "image_url": "product-images/ED000840/KinSlips_Sublingual_Sleep_Serenity_Single_PandP",
-   "price": 0.01,
-   "thc_percentage": null,
    "quantity": 4
  },
  {
@@ -5768,20 +5180,6 @@ export default [
    "quantity": 4
  },
  {
-   "entity_id": 632,
-   "sku": "ED000591",
-   "is_cannabis": 1,
-   "manufacturer": "Kin Slips",
-   "name": "Park Life CBD",
-   "url": "/brands/kin-slips/park-life/",
-   "category": "Edible",
-   "sub_category": "Sublingual",
-   "image_url": "product-images/ED000591/KinSlips_Sublingual_Comfort_Relief_PandP",
-   "price": 29.5,
-   "thc_percentage": 1.3,
-   "quantity": 104
- },
- {
    "entity_id": 687,
    "sku": "VP000634",
    "is_cannabis": 1,
@@ -5794,34 +5192,6 @@ export default [
    "price": 74.5,
    "thc_percentage": 79.4,
    "quantity": 6
- },
- {
-   "entity_id": 1186,
-   "sku": "FL000944",
-   "is_cannabis": 1,
-   "manufacturer": "FLOW KANA",
-   "name": "Blue Dawg Sativa 3.5g",
-   "url": "",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 30,
-   "thc_percentage": null,
-   "quantity": 184
- },
- {
-   "entity_id": 679,
-   "sku": "FL000626",
-   "is_cannabis": 1,
-   "manufacturer": "Source Cannabis",
-   "name": "D33",
-   "url": "/brands/source-cannabis/d33/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 56,
-   "thc_percentage": 32.2,
-   "quantity": 4
  },
  {
    "entity_id": 230,
@@ -7070,20 +6440,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 729,
-   "sku": "PR000678",
-   "is_cannabis": 1,
-   "manufacturer": "Claybourne",
-   "name": "Skywalker OG Flyers",
-   "url": "/brands/claybourne/skywalker-og/",
-   "category": "Flower",
-   "sub_category": "Preroll",
-   "image_url": "",
-   "price": 13.75,
-   "thc_percentage": 24.5,
-   "quantity": 0
- },
- {
    "entity_id": 610,
    "sku": "FL000569",
    "is_cannabis": 1,
@@ -7280,20 +6636,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 819,
-   "sku": "FL000760",
-   "is_cannabis": 1,
-   "manufacturer": "Connected",
-   "name": "Sugar Cone 3.5g",
-   "url": "/brands/connected/sugar-cone-3-5g/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 30,
-   "thc_percentage": 22.1,
-   "quantity": 0
- },
- {
    "entity_id": 678,
    "sku": "FL000625",
    "is_cannabis": 1,
@@ -7406,20 +6748,6 @@ export default [
    "quantity": 0
  },
  {
-   "entity_id": 891,
-   "sku": "VP000814",
-   "is_cannabis": 1,
-   "manufacturer": "Heavy Hitters",
-   "name": "Diablo OG  1g",
-   "url": "/brands/heavy-hitters/diablo-og/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 59,
-   "thc_percentage": 86.3,
-   "quantity": 0
- },
- {
    "entity_id": 199,
    "sku": "AC000200",
    "is_cannabis": 0,
@@ -7473,20 +6801,6 @@ export default [
    "image_url": "product-images/CN000791/RawGarden_DreamWalker_LiveResin_1G_Detail",
    "price": 32,
    "thc_percentage": 76,
-   "quantity": 0
- },
- {
-   "entity_id": 693,
-   "sku": "FL000643",
-   "is_cannabis": 1,
-   "manufacturer": "Cypress",
-   "name": "Black Jack 3.5g",
-   "url": "/brands/cypress/black-jack/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 24.75,
-   "thc_percentage": 20.1,
    "quantity": 0
  },
  {
@@ -7602,20 +6916,6 @@ export default [
    "quantity": 6
  },
  {
-   "entity_id": 971,
-   "sku": "VP000877",
-   "is_cannabis": 1,
-   "manufacturer": "Caldera",
-   "name": "Peach Rings Live Resin Pax Pod",
-   "url": "/brands/caldera/peach-rings-live-resin-pax-pod/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 43.5,
-   "thc_percentage": 61.2,
-   "quantity": 110
- },
- {
    "entity_id": 761,
    "sku": "TP000672",
    "is_cannabis": 1,
@@ -7644,34 +6944,6 @@ export default [
    "quantity": 36
  },
  {
-   "entity_id": 1222,
-   "sku": "FL000784",
-   "is_cannabis": 1,
-   "manufacturer": "FLOW KANA",
-   "name": "Pai Gow",
-   "url": "/brands/flow-kana/pai-gow/",
-   "category": "Flower",
-   "sub_category": "Pre-Pack",
-   "image_url": "",
-   "price": 30,
-   "thc_percentage": 18.5,
-   "quantity": 190
- },
- {
-   "entity_id": 854,
-   "sku": "FL000784",
-   "is_cannabis": 1,
-   "manufacturer": "FLOW KANA",
-   "name": "Pai Gow",
-   "url": "/brands/flow-kana/pai-gow/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "product-images/FL000784/FlowKana_EighthFL_PaiGow_PandP",
-   "price": 30,
-   "thc_percentage": 18.5,
-   "quantity": 190
- },
- {
    "entity_id": 330,
    "sku": "TN000307",
    "is_cannabis": 1,
@@ -7684,34 +6956,6 @@ export default [
    "price": 69.5,
    "thc_percentage": null,
    "quantity": 80
- },
- {
-   "entity_id": 631,
-   "sku": "ED000590",
-   "is_cannabis": 1,
-   "manufacturer": "Kin Slips",
-   "name": "Float On",
-   "url": "/brands/kin-slips/float-on/",
-   "category": "Edible",
-   "sub_category": "Sublingual",
-   "image_url": "product-images/ED000590/KinSlips_Sublingual_Balance_Tranquility_PandP",
-   "price": 29.5,
-   "thc_percentage": 6.9,
-   "quantity": 70
- },
- {
-   "entity_id": 735,
-   "sku": "VP000670",
-   "is_cannabis": 1,
-   "manufacturer": "STIIIZY",
-   "name": "Kush Mints Pod 0.5g",
-   "url": "/brands/stiiizy/kush-mints-pod-0-5g/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 39.5,
-   "thc_percentage": 70.2,
-   "quantity": 4
  },
  {
    "entity_id": 699,
@@ -7866,20 +7110,6 @@ export default [
    "price": 14.03,
    "thc_percentage": null,
    "quantity": 6
- },
- {
-   "entity_id": 954,
-   "sku": "FL000814",
-   "is_cannabis": 1,
-   "manufacturer": "Old Pal",
-   "name": "Sour Diesel 1oz",
-   "url": "",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 126,
-   "thc_percentage": 16.4,
-   "quantity": 2
  },
  {
    "entity_id": 641,
@@ -8554,20 +7784,6 @@ export default [
    "quantity": 6
  },
  {
-   "entity_id": 592,
-   "sku": "VP000549",
-   "is_cannabis": 1,
-   "manufacturer": "Heavy Hitters",
-   "name": "Malibu OG",
-   "url": "/brands/heavy-hitters/malibu-og/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 59,
-   "thc_percentage": 86.75,
-   "quantity": 4
- },
- {
    "entity_id": 816,
    "sku": "VP000744",
    "is_cannabis": 1,
@@ -9240,20 +8456,6 @@ export default [
    "quantity": 48
  },
  {
-   "entity_id": 589,
-   "sku": "VP000546",
-   "is_cannabis": 1,
-   "manufacturer": "Heavy Hitters",
-   "name": "Cherry Lime",
-   "url": "/brands/heavy-hitters/cherry-lime/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 59,
-   "thc_percentage": 86.03,
-   "quantity": 54
- },
- {
    "entity_id": 588,
    "sku": "VP000545",
    "is_cannabis": 1,
@@ -9266,20 +8468,6 @@ export default [
    "price": 59,
    "thc_percentage": 84.01,
    "quantity": 72
- },
- {
-   "entity_id": 938,
-   "sku": "CN000862",
-   "is_cannabis": 1,
-   "manufacturer": "VIOLA",
-   "name": "Bucketz Diamonds ",
-   "url": "/brands/viola/bucketz-diamonds/",
-   "category": "Extract",
-   "sub_category": "Other",
-   "image_url": "",
-   "price": 39,
-   "thc_percentage": 80.4,
-   "quantity": 186
  },
  {
    "entity_id": 297,
@@ -9406,20 +8594,6 @@ export default [
    "price": 32,
    "thc_percentage": 72.9,
    "quantity": 2
- },
- {
-   "entity_id": 821,
-   "sku": "VP000762",
-   "is_cannabis": 1,
-   "manufacturer": "Heavy Hitters",
-   "name": "AC/DC",
-   "url": "/brands/heavy-hitters/ac-dc/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 30,
-   "thc_percentage": 39.6,
-   "quantity": 94
  },
  {
    "entity_id": 136,
@@ -9770,20 +8944,6 @@ export default [
    "price": 4.75,
    "thc_percentage": 0.04,
    "quantity": 64
- },
- {
-   "entity_id": 1077,
-   "sku": "CN000883",
-   "is_cannabis": 1,
-   "manufacturer": "STIIIZY",
-   "name": "Blackberry Kush Live Resin Sauce",
-   "url": "/brands/stiiizy/blackberry-kush-live-resin-sauce/",
-   "category": "Extract",
-   "sub_category": "Other",
-   "image_url": "",
-   "price": 32,
-   "thc_percentage": 74.5,
-   "quantity": 30
  },
  {
    "entity_id": 232,
@@ -10304,20 +9464,6 @@ export default [
    "quantity": 8
  },
  {
-   "entity_id": 630,
-   "sku": "ED000589",
-   "is_cannabis": 1,
-   "manufacturer": "Kin Slips",
-   "name": "Cloud Buster",
-   "url": "/brands/kin-slips/cloud-buster/",
-   "category": "Edible",
-   "sub_category": "Sublingual",
-   "image_url": "product-images/ED000589/KinSlips_Sublingual_Creativity_Focus_PandP",
-   "price": 29.5,
-   "thc_percentage": 6.7,
-   "quantity": 84
- },
- {
    "entity_id": 184,
    "sku": "CN000071",
    "is_cannabis": 1,
@@ -10472,20 +9618,6 @@ export default [
    "quantity": 70
  },
  {
-   "entity_id": 558,
-   "sku": "FL000517",
-   "is_cannabis": 1,
-   "manufacturer": "Seven Leaves",
-   "name": "Grease Monkey",
-   "url": "/brands/seven-leaves/grease-monkey/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "product-images/FL000517/7Leaves_FL_Eighth_GreaseMonkey_PandP",
-   "price": 45,
-   "thc_percentage": 25.45,
-   "quantity": 120
- },
- {
    "entity_id": 787,
    "sku": "CN000719",
    "is_cannabis": 1,
@@ -10514,20 +9646,6 @@ export default [
    "quantity": 98
  },
  {
-   "entity_id": 122,
-   "sku": "FL000001",
-   "is_cannabis": 1,
-   "manufacturer": "Seven Leaves",
-   "name": "VoVo ",
-   "url": "/brands/seven-leaves/vovo/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "product-images/FL000001/SevenLeaves_EighthFlower_Vovo_PackageandProduct",
-   "price": 45,
-   "thc_percentage": 21.43,
-   "quantity": 52
- },
- {
    "entity_id": 299,
    "sku": "BV000276",
    "is_cannabis": 1,
@@ -10540,20 +9658,6 @@ export default [
    "price": 6,
    "thc_percentage": null,
    "quantity": 74
- },
- {
-   "entity_id": 949,
-   "sku": "FL000811",
-   "is_cannabis": 1,
-   "manufacturer": "Old Pal",
-   "name": "Forbidden Fruit 28g",
-   "url": "/brands/old-pal/forbidden-fruit-28g/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 126,
-   "thc_percentage": 19.4,
-   "quantity": 4
  },
  {
    "entity_id": 42,
@@ -10610,20 +9714,6 @@ export default [
    "price": 14.75,
    "thc_percentage": 31.7,
    "quantity": 4
- },
- {
-   "entity_id": 524,
-   "sku": "VP000485",
-   "is_cannabis": 1,
-   "manufacturer": "Chemistry",
-   "name": "Triple Cream OG",
-   "url": "/brands/chemistry/triple-cream-og-1g-hybrid/",
-   "category": "Cartridge",
-   "sub_category": "Pod",
-   "image_url": "",
-   "price": 49.5,
-   "thc_percentage": 72.23,
-   "quantity": 64
  },
  {
    "entity_id": 622,
@@ -10715,7 +9805,7 @@ export default [
    "is_cannabis": 0,
    "manufacturer": "Vibes",
    "name": "Hemp King Size Papers",
-   "url": "/brands/vibes-hemp-king-size-paper/",
+   "url": "/brands/vibes/hemp-king-size-paper/",
    "category": "Merch",
    "sub_category": "Other",
    "image_url": "product-images/AC000807/Vibes_RollingPapers_Hemp_King_PFront",
@@ -10878,20 +9968,6 @@ export default [
    "quantity": 6
  },
  {
-   "entity_id": 123,
-   "sku": "FL000002",
-   "is_cannabis": 1,
-   "manufacturer": "Seven Leaves",
-   "name": "Purple Jellato",
-   "url": "/brands/seven-leaves/purple-jellato/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "product-images/FL000002/SevenLeaves_EighthFlower_PurpleJellato_PackageandProduct",
-   "price": 45,
-   "thc_percentage": 23.8,
-   "quantity": 108
- },
- {
    "entity_id": 464,
    "sku": "PR000424",
    "is_cannabis": 1,
@@ -10904,20 +9980,6 @@ export default [
    "price": 39.75,
    "thc_percentage": 21.48,
    "quantity": 42
- },
- {
-   "entity_id": 865,
-   "sku": "FL000793",
-   "is_cannabis": 1,
-   "manufacturer": "Old Pal",
-   "name": "Venom OG",
-   "url": "/brands/old-pal/venom-og/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "",
-   "price": 16.75,
-   "thc_percentage": 14.3,
-   "quantity": 107
  },
  {
    "entity_id": 861,
@@ -11214,20 +10276,6 @@ export default [
    "quantity": 113
  },
  {
-   "entity_id": 125,
-   "sku": "FL000004",
-   "is_cannabis": 1,
-   "manufacturer": "Seven Leaves",
-   "name": "Bon Bons",
-   "url": "/brands/seven-leaves/bon-bons/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "product-images/FL000004/SevenLeaves_EighthFlower_BonBons_PackageandProduct",
-   "price": 45,
-   "thc_percentage": 24.62,
-   "quantity": 82
- },
- {
    "entity_id": 562,
    "sku": "FL000521",
    "is_cannabis": 1,
@@ -11268,20 +10316,6 @@ export default [
    "price": 19.75,
    "thc_percentage": null,
    "quantity": 342
- },
- {
-   "entity_id": 124,
-   "sku": "FL000003",
-   "is_cannabis": 1,
-   "manufacturer": "Seven Leaves",
-   "name": "Blue Slush",
-   "url": "/brands/seven-leaves/blue-slush/",
-   "category": "Flower",
-   "sub_category": "Pre-pack",
-   "image_url": "product-images/FL000003/SevenLeaves_EighthFlower_BlueSlush_PackageandProduct",
-   "price": 45,
-   "thc_percentage": 17.57,
-   "quantity": 58
  },
  {
    "entity_id": 175,
@@ -11674,20 +10708,6 @@ export default [
    "price": 39.5,
    "thc_percentage": 86.67,
    "quantity": 4
- },
- {
-   "entity_id": 1139,
-   "sku": "CN000908",
-   "is_cannabis": 1,
-   "manufacturer": "Moxie",
-   "name": "Platinum Grape Live Resin Badder",
-   "url": "",
-   "category": "Extract",
-   "sub_category": "Other",
-   "image_url": "product-images/CN000908/Moxie_CN_LiveResin_PlatinumGrape_PDetail",
-   "price": 32.5,
-   "thc_percentage": 80,
-   "quantity": 116
  },
  {
    "entity_id": 2,

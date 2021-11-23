@@ -1,8 +1,8 @@
 <template>
-  <div>
+  <div class="product-filter-wrapper">
     <select v-model="selectedValue" class="product-filter">
-      <option value="">Filter products ...</option>
-      <option v-for="value in values" :key="value">{{value}}</option>
+      <option :key="null" value="">{{criteria}}</option>
+      <option v-for="value in values" :key="value" :value="value">{{value}}</option>
     </select>
 <!--
     <vue-select v-model="selectedValue" class="product-filter" clear-on-close :options="values"></vue-select>
@@ -54,4 +54,9 @@ export default {
 </script>
 
 <style scoped>
+.product-filter {
+  margin: 1em;
+  font-size: x-large;
+  padding: 10px;
+}
 </style>

@@ -21,4 +21,6 @@ const store = createStore({
   }
 })
 
-createApp(App).use(router).use(store).mount('#app')
+const app = createApp(App)
+app.config.globalProperties.IMAGE_PREFIX = 'https://res.cloudinary.com/amusenow/w_800,c_scale/'
+app.use(router).use(store).mount('#app')

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="product-filters">
 <!--
     <img src="@/assets/logo.png" />
     <img :src="require('@/assets/logo.png')" />
@@ -7,17 +7,25 @@
     <ProductFilter criteria="category" :useAllProducts=true />
     <ProductFilter criteria="sub_category" />
     <ProductFilter criteria="manufacturer" />
+<!--
     <ProductFilter criteria="price" />
+-->
   </div>
   <div class="wrapper">
-    <div v-for="product in $store.state.products" :key="product.entity_id" class="product">
-      <p><router-link :to="product.url">{{ product.name }}</router-link></p>
-      <p>{{ product.url }}</p>
-      <p>Cat: {{ product.category }}</p>
-      <p>SubCat: {{ product.sub_category }}</p>
-      <p>{{ product.price }}</p>
-      <p>{{ product.thc_percentage }}</p>
-      <p>{{ product.quantity }}</p>
+    <div v-for="product in $store.state.products" :key="product.entity_id">
+      <router-link :to="product.url">
+        <div class="product">
+          <p v-if="product.image_url"><img :src="IMAGE_PREFIX + product.image_url" class="product-image"></p>
+          <p>{{ product.name }}</p>
+          <p>Cat: {{ product.category }}</p>
+          <p>SubCat: {{ product.sub_category }}</p>
+          <p>Brand: {{ product.manufacturer }}</p>
+          <p>THC: {{ product.thc_percentage }}</p>
+          <p>Qty: {{ product.quantity }}</p>
+          <p>Price: ${{ product.price }}</p>
+          <p>+ Add to Cart</p>
+        </div>
+      </router-link>
     </div>
   </div>
 </template>
@@ -31,39 +39,30 @@ export default {
     ProductFilter
   }
 }
-
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-.wrapper {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-column-gap: 1rem;
-  max-width: 960px;
-  margin: 0 auto;
-}
 .product {
-  border: 3px solid;
+  border: 2px solid;
   border-radius: .5rem;
   padding: 1rem;
-}
-.product p:first-child {
-/*
-  font-weight: bold;
-  font-size: 2.5rem;
-  margin: 1rem 0;
-*/
+  color: black;
+  text-decoration: none !important;
 }
 .product p:last-child {
   font-style: italic;
-  font-size: .8rem;
+}
+.product-image {
+  height: auto;
+  width: 100%;
+}
+.product-filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+}
+a:link {
+  text-decoration: none;
 }
 </style>
