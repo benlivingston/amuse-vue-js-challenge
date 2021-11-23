@@ -19,10 +19,11 @@ export default {
 }
 .wrapper {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  /* grid-template-columns: 1fr 1fr 1fr; */
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   grid-column-gap: 1rem;
   grid-row-gap: 1rem;
-  max-width: 960px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 </style>

@@ -57,10 +57,10 @@ export default {
   width: 100%;
 }
 .product-filters {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 1em;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  max-width: 1000px;
+  margin: 0 auto;
 }
 a:link {
   text-decoration: none;

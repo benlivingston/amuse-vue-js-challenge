@@ -55,8 +55,8 @@ export default {
 
 <style scoped>
 .product-filter {
-  margin: 1em;
-  font-size: x-large;
-  padding: 10px;
+  margin: 0.5em;
+  font-size: large;
+  padding: 5px;
 }
 </style>
