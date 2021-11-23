@@ -41,7 +41,7 @@ export default {
   },
   computed: {
     filteredProducts() {
-      return this.$store.state.products.filter(p => p.show)
+      return this.$store.state.products.filter(p => p.show && p.quantity > 0)
     }
   }
 }

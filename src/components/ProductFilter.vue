@@ -35,11 +35,11 @@ export default {
       }
       // unique values from products
       else if (this.useAllProducts) {
-        return [...new Set(this.$store.state.products.map(p => p[this.criteria].toUpperCase()))];
+        return [...new Set(this.$store.state.products.map(p => p.quantity > 0 && p[this.criteria].toUpperCase()).sort())];
       }
       // unique values from presently filtered products
       else {
-        return [...new Set(this.$store.state.products.map(p => p[this.criteria].toUpperCase()))];
+        return [...new Set(this.$store.state.products.map(p => p.quantity > 0 && p[this.criteria].toUpperCase()).sort())];
       }
     }
   },
